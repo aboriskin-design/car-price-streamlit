@@ -1,5 +1,7 @@
 # HW1_ML_Boriskin: car price
 
+https://car-price-app-9et74gbvazuekzvmfqvykh.streamlit.app
+
 что сделано:
 1) провел EDA: посмотрел распределения числовых признаков, сравнил train и test, посмотрел связи на pairplot и по корреляциям.  
 2) сделал предобработку: почистил пропуски, привел форматы, для name сделал brand.  
